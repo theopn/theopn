@@ -6,7 +6,7 @@
 >
 > One day I will make my own fancy gif to replace it
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=theopn&left_color=#CCF1FF&right_color=#B5EAD7)
 
 <!---
 theopn/theopn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
