@@ -1,9 +1,10 @@
 - Hi, I’m Theo
 
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" height="200" />
-** Image from Giphy by reactionseditor **
-** One day I will make my own fancy gif to replace it **
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
 
+> Image from Giphy by reactionseditor
+>
+> One day I will make my own fancy gif to replace it
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
