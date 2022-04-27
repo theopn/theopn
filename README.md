@@ -1,4 +1,4 @@
-#### Hi, I’m Theo, and I am a CS student at Purdue university!
+#### Hi! My name is Theo, and I am studying CS and Philosophy at Purdue University!
 
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
 
