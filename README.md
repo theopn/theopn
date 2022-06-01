@@ -1,4 +1,5 @@
 #### Hi! My name is Theo, and I am studying CS and Philosophy at Purdue University!
+**Visit my [website](https://theopn.github.io/) to know more about me!**
 
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
 
