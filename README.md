@@ -8,7 +8,7 @@
   </a>
 </p></details>
 
-<details><summary><b>Click for cats typing</b></summary><p>
+<details><summary><b>Click here for cats typing</b></summary><p>
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
   <blockquote>Image from Giphy by reactionseditor</blockquote>
 </p></details>
