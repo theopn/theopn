@@ -4,3 +4,7 @@
 #+HTML: <img src="https://github.com/theopn/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" align="left">
 
 #+HTML: <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
+
+* Yes but
+
+/I don't think it shows up on the profile/
