@@ -1,5 +1,8 @@
-#### Hi! My name is Theo, and I am a student at [Purdue University](https://purdue.edu/) studying computer science and philosophy!
-**Visit my [website](https://theopark.me/) to get to know more about me!**
+# Hi! My name is Theo
+
+**I am a student at [Purdue University](https://purdue.edu/) studying computer science and philosophy :)**
+
+Visit my [website](https://theopark.me/) to get to know more about me!
 
 <details><summary>GitHub statistics cards</summary><p>
   <a href="https://github.com/theopn/">
