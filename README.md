@@ -1,11 +1,11 @@
 
-### Hi, I'm Theo, and welcome to my profile :)
+### Hi, I am Theo, and I am glad you could make it :)
 
 - I am a student at [Purdue University](https://purdue.edu/) majoring in computer science and philosophy
 - I am interested in programming language, CS theories, and CS education
-- I am love configuring (or as some people call it, "ricing") open-source Unix tools
-  - My primary text editor/IDE is Neovim. Check out my Neovim configuration [Theovim](https://github.com/theopn/theovim)
-  - I use macOS and Linux (Fedora i3/Sway spin). [Haunted Tiles](https://github.com/theopn/haunted-tiles) is my Dracula-themed i3/Sway configuration
+- I love configuring open-source command line tools
+  - [Theovim](https://github.com/theopn/theovim) is my configuration for Neovim. Neovim is my primary text editor, IDE, note-taker, and so much more
+  - [Haunted Tiles](https://github.com/theopn/haunted-tiles) is my Dracula-themed i3/Sway configuration. I jump between macOS and Fedora Sway Spin
   - Visit my [dotfiles](https://github.com/theopn/dotfiles) repository for the rest of my tools
 
 Visit my [website](https://theopark.me/) to learn more about me!
